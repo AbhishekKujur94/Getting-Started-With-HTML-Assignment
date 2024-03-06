@@ -1,0 +1,11 @@
+Tags: Tags are keywords enclosed in angle brackets (< and >) that define HTML elements. They provide instructions to the web browser on how to display the content. Tags are typically used in pairs: an opening tag and a closing tag. The opening tag denotes the beginning of an element, and the closing tag denotes the end. Some tags are self-closing, meaning they don't require a separate closing tag.
+
+Example:
+<p>This is a paragraph.</p>
+In this, <p> is the opening tag, and </p> is the closing tag. They define a paragraph element.
+
+Elements: Elements are made up of tags and the content they enclose. They represent the structure of a document and consist of an opening tag, content, and a closing tag (in most cases).
+
+Example:
+<p>This is a paragraph.</p>
+In this, <p> is the opening tag, "This is a paragraph." is the content, and </p> is the closing tag. Together, they form a paragraph element.
